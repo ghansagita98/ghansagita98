@@ -1,4 +1,12 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Gilang Hansagita**.<br>
+
+Saya seorang **Mahasiswa Jurusan Computer Science** di **Binus University**.<br>
+
+Saat ini saya sedang berpartisipasi sebagai cohort dalam program **bangkit**.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Twitter](https://x.com/GYahboy)ku ya.
 
 <!--
 **ghansagita98/ghansagita98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
